@@ -1,0 +1,22 @@
+body{
+    width:500px;
+    height:500px;
+    display: flex;
+    justify-content: center;
+    background-color: chartreuse;
+}
+
+p{
+    display: inline-flex;
+  
+    margin-top: auto 40px;
+    padding: 50px;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    border: 2px solid white;
+    box-shadow: 2px 3px 2px white;
+    margin-left: 20px;
+    margin-right: 20px;
+}
